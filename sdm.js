@@ -11,6 +11,7 @@
   // ***************************************************************************
   // Functions added by AVS
   // Copyright (c) 2016 by AV Sivaprasad and WebGenie Software Pty Ltd.
+  //
 var items_in_cart = 0;
 var cookiename    = "WebGenie_SDM";
 var cookieVal = "";
