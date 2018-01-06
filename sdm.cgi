@@ -1,7 +1,7 @@
 #!/usr/local/bin/perl
 #-----------------------------
 # Created on 02 April 2016
-# Copyright 2016 AV Sivaprasad - 1
+# Copyright 2016 AV Sivaprasad - 2
 #-----------------------------
 use URI::Escape;
 use DBI;
